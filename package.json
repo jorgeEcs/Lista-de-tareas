@@ -2,7 +2,7 @@
   "name": "eth-todo-lis-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jorgeecs.github.io/todo-list-ethereum/",
+  "homepage": "https://jorgeecs.github.io/Lista-de-tareas/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
